@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  H4XOR News
 //
-//  Created by Ba-link on 04/04/2021.
+//  Created by Yarden Katz on 04/04/2021.
 //
 
 import UIKit
