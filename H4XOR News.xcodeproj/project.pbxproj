@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E06ECB75261D7A4900CF6B3B /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E06ECB74261D7A4900CF6B3B /* DetailsView.swift */; };
+		E06ECB78261D83A400CF6B3B /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E06ECB77261D83A400CF6B3B /* WebView.swift */; };
 		E082B57226198A07009972D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E082B57126198A07009972D6 /* AppDelegate.swift */; };
 		E082B57426198A07009972D6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E082B57326198A07009972D6 /* SceneDelegate.swift */; };
 		E082B57626198A07009972D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E082B57526198A07009972D6 /* ContentView.swift */; };
@@ -20,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		E06ECB74261D7A4900CF6B3B /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
+		E06ECB77261D83A400CF6B3B /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 		E082B56E26198A07009972D6 /* H4XOR News.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "H4XOR News.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E082B57126198A07009972D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E082B57326198A07009972D6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -48,6 +50,7 @@
 			children = (
 				E082B57526198A07009972D6 /* ContentView.swift */,
 				E06ECB74261D7A4900CF6B3B /* DetailsView.swift */,
+				E06ECB77261D83A400CF6B3B /* WebView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				E082B57426198A07009972D6 /* SceneDelegate.swift in Sources */,
 				E082B57626198A07009972D6 /* ContentView.swift in Sources */,
 				E06ECB75261D7A4900CF6B3B /* DetailsView.swift in Sources */,
+				E06ECB78261D83A400CF6B3B /* WebView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
